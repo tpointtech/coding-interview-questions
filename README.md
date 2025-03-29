@@ -189,10 +189,10 @@ Read answer on 👉 <a href='https://www.fullstack.cafe'>FullStack.Cafe</a>
 Backtracking can be understood as as searching os a tree for a particular "goal" leaf node. Backtracking in that case is a **depth-first search** with any bounding function. All solution using backtracking is needed to satisfy a complex set of constraints.
 
 
-![](https://static.javatpoint.com/tutorial/daa/images/backtracking-introduction.png)
+![](https://images.tpointtech.com/tutorial/daa/images/backtracking-introduction.png)
 
 
-**Source:** _www.javatpoint.com_
+**Source:** _www.tpointtech.com_
 
 #### Q2: What is the difference between Backtracking and Recursion? ⭐⭐
 **Answer:**
